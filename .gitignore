@@ -1,0 +1,23 @@
+# Ignore environment variables file with API keys
+.env
+
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignore virtual environment
+venv/
+env/
+
+# Ignore data and model directories (large files)
+data/
+models/
+figures/
+results/
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore macOS specific files
+.DS_Store

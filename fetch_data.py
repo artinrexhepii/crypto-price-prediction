@@ -23,7 +23,7 @@ def load_api_keys():
     
     return api_key, api_secret
 
-def fetch_eth_historical_data(start_date="1 Jan, 2020"):
+def fetch_eth_historical_data(start_date="1 Jan, 2016"):
     """
     Fetch ETH/USDT historical data from Binance.
     

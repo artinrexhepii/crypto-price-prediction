@@ -1,0 +1,2 @@
+start_date,end_date,total_days,starting_price,ending_price,all_time_low,all_time_high,avg_price,median_price,price_range_pct,total_return_pct,annualized_return_pct,avg_daily_volume,total_volume,volatility,max_daily_gain_pct,max_daily_loss_pct,positive_days_pct
+2017-08-17,2025-04-10,2794,301.13,1524.77,81.79,4868.0,1493.534566929134,1377.52,5851.827851815625,406.3494171952313,23.611899742827735,527932.5185412634,1475043456.80429,4.687600707725044,26.33288653351713,-44.59688607985201,50.89477451682176
